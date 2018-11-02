@@ -2,7 +2,7 @@
   "name": "is-internal-link",
   "version": "1.1.4",
   "description": "Turn on mac os do not disturb for a specified amount of time",
-  "main": "bin/main.js",
+  "main": "dist/main.js",
   "devDependencies": {
     "@types/jest": "^23.3.9",
     "@types/node": "^10.12.0",
