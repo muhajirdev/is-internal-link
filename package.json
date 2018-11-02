@@ -1,6 +1,6 @@
 {
   "name": "is-internal-link",
-  "version": "1.1.4",
+  "version": "1.0.0",
   "description": "Turn on mac os do not disturb for a specified amount of time",
   "main": "dist/main.js",
   "devDependencies": {
