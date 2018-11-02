@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build": "tsc --outDir bin"
+    "build": "tsc"
   },
   "repository": "https://github.com/muhajirframe/deepwork",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
