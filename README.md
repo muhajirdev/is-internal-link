@@ -56,3 +56,10 @@ const Link = ({ children, to, activeClassName, ...other }) => {
 
 export default Link
 ```
+
+## Contributing
+
+- Got a question or idea ? Submit an issue . or ping me [@muhajirframe](https://twitter.com/muhajirframe) on twitter
+- Make a pull request
+
+**Enjoy**
