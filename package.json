@@ -4,11 +4,14 @@
   "description": "Turn on mac os do not disturb for a specified amount of time",
   "main": "bin/main.js",
   "devDependencies": {
+    "@types/jest": "^23.3.9",
     "@types/node": "^10.12.0",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.4",
     "typescript": "^3.1.3"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "build": "tsc --outDir bin"
   },
   "repository": "https://github.com/muhajirframe/deepwork",
