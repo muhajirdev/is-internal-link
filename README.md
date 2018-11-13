@@ -59,7 +59,15 @@ export default Link
 
 ## Contributing
 
-- Got a question or idea ? Submit an issue . or ping me [@muhajirframe](https://twitter.com/muhajirframe) on twitter
-- Make a pull request
+Please do not hesitate to submit an issue or pull request.
+
+## Question?
+
+-  Submit an issue || ping me [@muhajirframe](https://twitter.com/muhajirframe) on twitter
+
+
+## License
+
+MIT
 
 **Enjoy**
