@@ -63,7 +63,7 @@ Please do not hesitate to submit an issue or pull request.
 
 ## Question?
 
--  Submit an issue || ping me [@muhajirframe](https://twitter.com/muhajirframe) on twitter
+Submit an issue || ping me [@muhajirframe](https://twitter.com/muhajirframe) on twitter
 
 
 ## License
