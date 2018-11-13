@@ -1,5 +1,10 @@
 # is-internal-link
 ![npm-badge](https://img.shields.io/npm/v/is-internal-link.svg)
+[![GitHub issues](https://img.shields.io/github/issues/muhajirframe/is-internal-link.svg)](https://github.com/muhajirframe/is-internal-link/issues)
+[![GitHub license](https://img.shields.io/github/license/muhajirframe/is-internal-link.svg)](https://github.com/muhajirframe/is-internal-link/blob/master/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/muhajirframe/is-internal-link.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmuhajirframe%2Fis-internal-link)
+
+
 ## Installation
 
 ```bash
