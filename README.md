@@ -1,5 +1,5 @@
 # is-internal-link
-
+![npm-badge](https://img.shields.io/npm/v/is-internal-link.svg)
 ## Installation
 
 ```bash
