@@ -26,6 +26,12 @@ isInternalLink('https://www.google.com') // false
 isInternalLink('/page1') // true
 ```
 
+## Test
+
+```bash
+npm run test
+```
+
 ## Why ?
 
 I found my self doing this everytime I started new project. 
