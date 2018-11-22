@@ -73,6 +73,11 @@ const Link = ({ children, to, activeClassName, ...other }) => {
 export default Link;
 ```
 
+## Contributors
+
+- [muhajirframe](https://github.com/muhajirframe)
+- [franciscop-invast](https://github.com/franciscop-invast)
+
 ## Contributing
 
 Please do not hesitate to submit an issue or pull request.
