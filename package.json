@@ -14,7 +14,7 @@
     "test": "jest",
     "build": "tsc"
   },
-  "repository": "https://github.com/muhajirframe/deepwork",
+  "repository": "https://github.com/muhajirframe/is-internal-link",
   "author": "Muhammad Muhajir <muhajirframe@gmail.com>",
   "license": "MIT"
 }
