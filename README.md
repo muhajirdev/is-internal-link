@@ -17,6 +17,7 @@ npm install --save is-internal-link
 ```javascript
 import { isInternalLink } from "is-internal-link";
 ```
+or
 
 ```javascript
 import isInternalLink from "is-internal-link";
