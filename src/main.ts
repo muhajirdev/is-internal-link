@@ -2,3 +2,5 @@
 const external = /^(https?:\/\/|\/\/)/i;
 
 export const isInternalLink = (link: string) => !external.test(link);
+
+export default isInternalLink
