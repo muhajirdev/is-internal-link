@@ -4,6 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/muhajirframe/is-internal-link.svg)](https://github.com/muhajirframe/is-internal-link/issues)
 [![GitHub license](https://img.shields.io/github/license/muhajirframe/is-internal-link.svg)](https://github.com/muhajirframe/is-internal-link/blob/master/LICENSE)
 ![npm type definitions](https://img.shields.io/npm/types/is-internal-link.svg)
+[![CircleCI](https://circleci.com/gh/muhajirframe/is-internal-link.svg?style=svg)](https://circleci.com/gh/muhajirframe/is-internal-link)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/muhajirframe/is-internal-link.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmuhajirframe%2Fis-internal-link)
 
 ## Installation
